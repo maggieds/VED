@@ -6,6 +6,6 @@ navbar:
     - text: "Index"
       href: index.html
     - text: "About"
-      href: about.html
+      href: About.html
     - text: "Summer School"
       href: SummerSchool2.html
