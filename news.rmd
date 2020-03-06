@@ -1,0 +1,25 @@
+---
+title: "News"
+author: ""
+output: 
+  html_document:
+      toc: true
+      toc_depth: 3
+      toc_float: true
+      theme: cerulean
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Summer School 2020
+We are currently accepting applications to our Big Data Summer School!  See the Summer School tab for more information and to apply.  
+\  
+
+## Volunteer to participate
+We are seeking participants to assist with data collection.  Participation involves wearing a series of head-mounted cameras while performing an assigned common task such as shopping at a grocery store, making dinner, or taking a walk.  Participants are asked to commit approximately 3 hours to the process and will be compensated at a rate of $15/hr.  Complete the [Participant Application](link to form) to sign up to participate.  
+
+\  
+ 
