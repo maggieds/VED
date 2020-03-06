@@ -7,5 +7,12 @@ navbar:
       href: index.html
     - text: "About"
       href: About.html
+    - text: "People"
+      href: people.html
     - text: "Summer School"
-      href: SummerSchool2.html
+      href: summerschool.html
+    - text: "For Researchers"
+      href: researchers.html
+    - text: "News"
+      href: news.html
+
