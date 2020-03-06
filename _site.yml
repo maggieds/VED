@@ -6,7 +6,7 @@ navbar:
     - text: "Index"
       href: index.html
     - text: "About"
-      href: About.html
+      href: about.html
     - text: "People"
       href: people.html
     - text: "Summer School"
