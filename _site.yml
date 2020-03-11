@@ -15,4 +15,6 @@ navbar:
       href: researchers.html
     - text: "News"
       href: news.html
-
+output: 
+  html_document:
+      theme: cerulean

@@ -15,6 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](C:\Users\Maggie\Desktop\VEDWebsite\VED\logo3.jpg){width=70%}
 
+
 The **Visual Experience Database (VED)** is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking.  By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.  
 \
 
