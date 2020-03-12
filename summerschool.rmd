@@ -38,7 +38,7 @@ Financial support for most costs associated with travel, lodging, and subsistenc
 \
 
 ### Applications  
-To apply for the Big Data Summer School, please complete this [application form](https://docs.google.com/forms/d/1uS80IJDFJ6wwirt1yGErJOBmdC3Vae0uQSgq6pWBZdw/edit?usp=sharing).  
+To apply for the Big Data Summer School, please complete this [application form](https://docs.google.com/forms/d/e/1FAIpQLSdBWa9--esGaGVGH20jkqpWrzqiYLBGxz44TLAEvhZLLmHYSw/viewform?usp=sf_link).  
 \
 \
 
@@ -49,7 +49,7 @@ All applications meeting the eligibility requirements will be placed in a random
 
 ### Important Dates  
 * April 1, 2020: Applications due  
-* April 7, 2020: Notification of acceptance  
+* April 15, 2020: Notification of acceptance  
 * July 6-10, 2020: Workshop  
 \
 \

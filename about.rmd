@@ -27,5 +27,9 @@ Our database creation is guided by the following three criteria:
 
 3. The database should be accessible to all, regardless of technical experience or skill. If one can query a search engine, one should be able to access these data in a usable format.
 \
+\  
+
+<center><img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\cameras.jpg" width="500x">
+\
 
 *This material is based upon work supported by the National Science Foundation under Grant No. 1920896*
