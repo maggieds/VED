@@ -12,14 +12,17 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-![](C:\Users\Maggie\Desktop\VEDWebsite\VED\logo3.jpg)
-
-
+<center>
+<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\Logo.jpg" width="600x" alt="VED logo showing name and drawing of an eye with a camera in the pupil">  
+</center>
+\
+<div style="text-align: justify">  
 The **Visual Experience Database (VED)** is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking.  By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.  
+
 \
 
 **The creation of the VED is supported by an NSF EPSCoR Research Infrastructure Improvement Program: Track-2 Focused EPSCoR Collaborations grant (award #1920896).**  
 \
 
 Any opinions, findings, and conclusions or recommendations expressed n this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+</div>

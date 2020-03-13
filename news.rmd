@@ -1,3 +1,10 @@
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"logo.jpg\" style=\"float: right;width: 200px;\"/>')
+   });
+</script>
+
 ---
 title: "News"
 author: ""
@@ -13,7 +20,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
+<div style="text-align: justify">
 ## Summer School 2020
 We are currently accepting applications to our Big Data Summer School!  See the [Summer School](https://maggieds.github.io/VED/summerschool.html) tab for more information and to apply.  
 \  
@@ -24,10 +31,13 @@ We are seeking participants to assist with data collection.  Participation invol
 \  
 
 ## Publications and Presentations
+\
 
-Kamran Binaee, a postdoctoral researcher in the [Pieces of Mind](http://piecesofmind.psyc.unr.edu/index.php/2019/11/21/welcome-to-kamran-binaee/) and Self-Motion Labs at the University of Nevada, Reno, will be presenting a methods poster describing the creation of the VED at the [Center for Visual Science](https://www.cvs.rochester.edu/symposium/index.html) [32nd Symposium: Active Vision](https://www.cvs.rochester.edu/symposium/index.html) to be held at the University of Rochester June 10-13, 2020.  
+#### 32nd CVS Symposium: Active Vision - poster presentation by Kamran Binaee
+Kamran Binaee, a postdoctoral researcher at the University of Nevada, Reno, will be presenting a methods poster describing the creation of the VED at the [Center for Visual Science](https://www.cvs.rochester.edu/symposium/index.html) [32nd Symposium: Active Vision](https://www.cvs.rochester.edu/symposium/index.html) to be held at the University of Rochester June 10-13, 2020.  
 \
 **Title:** The Visual Experience Database: a large-scale point-of-view database for vision research  
 **Authors:** Kamran Binaee, Christian Sinnott, Paul MacNeilage, Mark Lescroart, Benjamin Balas, Michelle R. Greene  
 **Abstract:** Currently available image and movie datasets are not representative of the natural statistics of our visual experience. To address this issue, we are creating the Visual Experience Database, consisting of over 240 hours of first-person video with eye- and head-tracking. During data collection participants of diverse ages (5-70 years), and across three geographically different sites engage in common, everyday activities. Hence, we will prevent over-representation of any particular region, environment, or task. We modified the *Pupil-labs* eye-tracking hardware with a head tracking module and a *FLIR* camera for a wider field of view and higher resolution. We present our open-source software for recording the data-stream from different devices and share the results for pilot test during system development, data quality assessments, and tradeoffs, e.g. between image quality and file size. We also present the data collection protocol, including calibration and validation of head and eye movement measurements.
+</div>
  

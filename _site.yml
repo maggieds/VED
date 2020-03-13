@@ -1,7 +1,7 @@
 name: "Visual Experience Database"
 output_dir: "."
 navbar:
-  title: "Visual Experience Directory"
+  title: "Visual Experience Database"
   left:
     - text: "Home"
       href: index.html

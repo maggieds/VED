@@ -1,3 +1,10 @@
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"logo.jpg\" style=\"float: right;width: 200px;\"/>')
+   });
+</script>
+
 ---
 title: "Big Data Summer School"
 subtitle: "Reno, NV  July 6-10, 2020"
@@ -11,7 +18,7 @@ output:
 
 ---
 
-
+<div style="text-align: justify">
 We are currently accepting applications for the inaugural Big Data Summer School to be held  July 6-10, 2020 at the University of Nevada, Reno. The aim of the summer school is to provide undergraduate and early graduate students with the foundational skills necessary to work with the types of large-scale datasets that are common in 21st century scientific research. 
 
 In this five-day immersive learning event, students will learn facility with the command line, foundations of networking, working with common text editors such as Nano and Vim, package management, and version control. The summer school will also include guest lectures by leading researchers who have leveraged large-scale data for scientific advancement.  
@@ -61,5 +68,5 @@ Maggie Diamond-Stanic
 Grant Coordinator  
 Bates College  
 mdiamond@bates.edu
-
+</div>
 

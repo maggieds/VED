@@ -1,3 +1,10 @@
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"logo.jpg\" style=\"float: right;width: 200px;\"/>')
+   });
+</script>
+
 ---
 title: "For researchers"
 author: ""
@@ -12,7 +19,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+<div style="text-align: justify">
 ### Request to Collaborate  
 We welcome collaborations with external researchers.  If you are interested in forming a collaboration with one or more of the VED PIs, please read our **[Collaboration terms and Conditions](https://docs.google.com/document/d/17fI4j78OYshcBxxvp2Wq5LgLeruCDTBwfFIQkOC0Qsc/edit?usp=sharing)** and then complete the **[Request to Collaborate](https://docs.google.com/forms/d/e/1FAIpQLSf6yBxC_A4G2luIqD5hABHwIurH9Tu19ooL4-nnIOQvU7XtuQ/viewform?usp=sf_link)** form.  
 \
@@ -33,4 +40,4 @@ Check back soon for more information
 ### Acknowledgement of funding  
 Please acknowledge the Visual Experience Database and its funding source on all publications and presentations arising from work with the data and/or software available from this page by referencing  
 *National Science Foundation award #1920896 - RII Track-2 FEC: The Visual Experience Database: A Large-Scale Point-of-View Video Database for Vision Research*
-
+</div>

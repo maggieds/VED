@@ -4,7 +4,7 @@ author: ""
 output: 
   html_document:
       toc: true
-      toc_depth: 3
+      toc_depth: 2
       toc_float: true
       theme: cerulean
 ---
@@ -29,14 +29,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div class="column-left">
 ## Michelle Greene, PhD  
-Department of Neuroscience  
+Assist. Prof. of Neuroscience  
 Bates College  
 Lewiston, ME  
 Email: mgreene@bates.edu  
 **[The Greene Lab](http://michellegreene.org/index.html)**  
 </div>
 <div class="column-right">
-<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\MichelleGreene.jpg" width="200x">
+<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\MichelleGreene.jpg" width="200x" alt="picture of Michelle Greene">
 </div>
 \
 \
@@ -67,14 +67,16 @@ Email: benjamin.balas@ndsu.edu
 **[The Balas Lab](https://sites.google.com/site/benjaminbalas/)**  
 \
 \
+
 <div class="column-left">
 ## Administrative Contact  
 Maggie Diamond-Stanic, PhD  
-Department of Neuroscience  
+Program in Neuroscience
 Bates College  
 Lewiston, ME  
-Email: mdiamond@bates.edu
+Email: mdiamond@bates.edu  
 </div>
 <div class="column-right">
-<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\MaggieDS.jpg" width="200x">
+<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\MaggieDS.jpg" width="200x" alt="picture of Maggie Diamond-Stanic">
 </div>
+

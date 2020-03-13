@@ -1,3 +1,10 @@
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"logo.jpg\" style=\"float: right;width: 175px;\"/>')
+   });
+</script>
+
 ---
 title: "About the VED"
 author: ""
@@ -12,7 +19,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+<div style="text-align: justify">
 How many faces, bodies, and animals do people regularly see? How many vertical surfaces do we see compared to oblique or horizontal surfaces? How many different types of objects do people typically encounter, and where in the visual field do these objects land? How do we move our heads and eyes during different types of activities? How does this affect our visual input? **What does the world, as experienced by acting human observers, really look like?**
 
 Vision is an active process, and in order to fully characterize natural scene statistics it is necessary to characterize what human observers actually fixate in the world.  Vision researchers have been fundamentally constrained in the types of insights they can obtain due to limitations of the datasets available for study, including: small dataset size, narrow or otherwise unprincipled sampling of human visual experience, and photographer bias.  In addition, many datasets (Deng et al., 2009; Krishna et al., 2017; Lin et al., 2014; Xiao et al., 2014; Zhou et al., 2018) sample broadly from static images on the Internet (e.g. Greene, 2013; Zhou et al., 2018), but these do not capture dynamic experiences and still reflect aesthetic preferences and other photographic biases (Tseng et al, 2009). 
@@ -26,10 +33,20 @@ Our database creation is guided by the following three criteria:
 2. The data should reflect a broad and unbiased sampling of locations, tasks, and events from daily life, across a wide variety of observers. Here, we take our cue from recent principled efforts to sample static images of scenes and objects based on natural frequencies (Adams et al, 2016; Dickter et al., 2018), and extend the same logic to first-person video collection (see Methods: Sampling protocols). 
 
 3. The database should be accessible to all, regardless of technical experience or skill. If one can query a search engine, one should be able to access these data in a usable format.
+</div>
 \
 \  
 
-<center><img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\cameras.jpg" width="500x">
+<figure>
+<center>
+<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\cameras.jpg" width="500x" alt="picture of cameras used to record data for the VED mounted on a headband">  
+</center>
+<figcaption>
+<div style="text-align: justify">
+Head-centered videos and eye tracking data are recorded using three cameras: two for monitoring eye position and one for recording the view of the environment. To eliminate corneal reflections outdoors, a filter constructed of disposable plastic optometrist sunglasses is used. Head tracking is facilitated by rigidly mounting both an inertial measurement unit and a global positioning system to the environment camera. All devices are connected to a laptop, carried in a backpack, that aggregates the data. 
+</div>
+</figcaption>
+</figure>
 \
 
 *This material is based upon work supported by the National Science Foundation under Grant No. 1920896*
