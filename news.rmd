@@ -1,7 +1,7 @@
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"logo.jpg\" style=\"float: right;width: 200px;\"/>')
+     $head.prepend('img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\Logo.jpg" style=\"float: right;width: 200px;\"/>')
    });
 </script>
 
