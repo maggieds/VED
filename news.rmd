@@ -1,10 +1,3 @@
-<script>
-   $(document).ready(function() {
-     $head = $('#header');
-     $head.prepend('img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\Logo.jpg" style=\"float: right;width: 200px;\"/>')
-   });
-</script>
-
 ---
 title: "News"
 author: ""
@@ -25,6 +18,16 @@ knitr::opts_chunk$set(echo = TRUE)
 We are currently accepting applications to our Big Data Summer School!  See the [Summer School](https://maggieds.github.io/VED/summerschool.html) tab for more information and to apply.  
 \  
 
+
+## Video recording is on going!  
+In the video below, postdoctoral research Kamran Binaee guides a participant through a pilot run of data collection.  The Pupilens camera recording pupil movement of the participant is shown in the upper left corner.  The green and red circle the moves around in the field of view represents...
+</div>
+\
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=iChh6G4mqbc&feature=youtu.be" frameborder="0" allowfullscreen></iframe> 
+</center>
+\
+<div style="text-align: justify"> 
 ## Volunteer to participate
 We are seeking participants to assist with data collection.  Participation involves wearing a series of head-mounted cameras while performing an assigned common task such as shopping at a grocery store, making dinner, or taking a walk.  Participants are asked to commit approximately 3 hours to the process and will be compensated at a rate of $15/hr.  Complete the [Participant Application](link to form) to sign up to participate.  
 

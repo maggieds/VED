@@ -36,7 +36,7 @@ Email: mgreene@bates.edu
 **[The Greene Lab](http://michellegreene.org/index.html)**  
 </div>
 <div class="column-right">
-<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\MichelleGreene.jpg" width="200x" alt="picture of Michelle Greene">
+<img src="MichelleGreene.jpg" width="200x" alt="picture of Michelle Greene">
 </div>
 \
 \
@@ -68,6 +68,80 @@ Email: benjamin.balas@ndsu.edu
 \
 \
 
+## Postdoctoral Researchers
+#### Kamran Binaee, PhD
+
+\
+\
+
+## Graduate Students
+<style>
+.column-l{
+  float: left;
+  width: 33%;
+  text-align: left;
+}
+.column-c{
+  display: inline-block;
+  width: 33%;
+  text-align: left;
+}
+.column-r{
+  float: right;
+  width: 33%;
+  text-align: left;
+}
+</style>
+
+
+<div class="column-l">
+#### Arnab Biswas
+*Picture*  
+*Institution*   
+arnab.biswas93@gmail.com  
+\
+
+#### Christian Sinnott  
+*Picture*  
+University of Nevada, Reno  
+csinnott@nevada.unr.edu  
+</div>
+<div class="column-c">
+#### Peter Hausamann  
+*Picture*  
+University of Nevada, Reno    
+peter.hausamann@tum.de    
+</div>
+<div class="column-r">
+#### Matthew Shinkle  
+*Picture*  
+University of Nevada, Reno    
+mshinkle1040@gmail.com    
+</div>
+\
+\
+\
+\
+\
+\
+
+
+<style>
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+</style>
+\
+\
+
 <div class="column-left">
 ## Administrative Contact  
 Maggie Diamond-Stanic, PhD  
@@ -76,7 +150,7 @@ Bates College
 Lewiston, ME  
 Email: mdiamond@bates.edu  
 </div>
-<div class="column-right">
-<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\MaggieDS.jpg" width="200x" alt="picture of Maggie Diamond-Stanic">
+<div class="column-right2">
+<img src="MaggieDS.jpg" width="200x" alt="picture of Maggie Diamond-Stanic">
 </div>
 

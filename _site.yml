@@ -1,7 +1,7 @@
 name: "Visual Experience Database"
 output_dir: "."
 navbar:
-  title: "Visual Experience Database"
+  title: <img ="<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\Logowhite.jpg" width ="125x" style="margin-bottom:100px"/>
   left:
     - text: "Home"
       href: index.html
