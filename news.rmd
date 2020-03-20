@@ -20,11 +20,11 @@ We are currently accepting applications to our Big Data Summer School!  See the 
 
 
 ## Video recording is on going!  
-In the video below, postdoctoral research Kamran Binaee guides a participant through a pilot run of data collection.  The Pupilens camera recording pupil movement of the participant is shown in the upper left corner.  The green and red circle the moves around in the field of view represents...
+In the video below, postdoctoral research Kamran Binaee guides a participant through a pilot run of data collection and demonstratse the mobile eye tracking employed in this project. The green dot represents the estimated position of the particiant's gaze (where they were looking). (Video has no sound.)
 </div>
 \
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=iChh6G4mqbc&feature=youtu.be" frameborder="0" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iChh6G4mqbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 \
 <div style="text-align: justify"> 
