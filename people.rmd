@@ -144,34 +144,6 @@ kbinaee@unr.edu
 \
 
 ## Undergraduate Students
-<style>
-.column-l{
-  float: left;
-  width: 30%;
-  text-align: left;
-}
-.column-c{
-  display: inline-block;
-  width: 30%;
-  text-align: left;
-}
-.column-r{
-  float: right;
-  width: 30%;
-  text-align: left;
-}
-</style>
-
-<div class="column-l">
-#### Bates College
-</div>
-<div class="column-c">
-#### Univ. of Nevada, Reno
-</div>
-<div class="column-r">
-#### North Dakota State Univ.
-</div>
-
 
 <table style="width:100%">
   <tr>

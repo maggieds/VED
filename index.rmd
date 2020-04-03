@@ -11,28 +11,20 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 \
 
-<div style="text-align: justify">  
 The **Visual Experience Database (VED)** is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking.  By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.  
 \
 
 We're recording data for the VED!  Head over to the [News](https://maggieds.github.io/VED/news.html) page to find out what's going on in the video below.
-</div>
 \
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iChh6G4mqbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iChh6G4mqbc" title="video of participant walking around UNR campus wearing data recording device.  Video has no sound" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </center>
 \
 
-<div style="text-align: justify"> 
 **The creation of the VED is supported by an NSF EPSCoR Research Infrastructure Improvement Program: Track-2 Focused EPSCoR Collaborations grant (award #1920896).**  
-</div>
-
 
 <center>
 <img src="Logo.jpg" width="400x" alt="VED logo showing name and drawing of an eye with a camera in the pupil">  
-</center
+</center>
 \
 \
-<div style="text-align: justify">  
-*Any opinions, findings, and conclusions or recommendations expressed n this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.*
-</div>
