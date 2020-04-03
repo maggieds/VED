@@ -12,9 +12,11 @@ output:
 ---
 
 <div style="text-align: justify">
-We are currently accepting applications for the inaugural Big Data Summer School to be held  July 6-10, 2020 at the University of Nevada, Reno. The aim of the summer school is to provide undergraduate and early graduate students with the foundational skills necessary to work with the types of large-scale datasets that are common in 21st century scientific research. 
+We are currently accepting applications for the first annual Big Data Summer School to be held  July 6-10, 2020.  The aim of the summer school is to provide undergraduate and early graduate students with the foundational skills necessary to work with the types of large-scale datasets that are common in 21st century scientific research. 
 
-In this five-day immersive learning event, students will learn facility with the command line, foundations of networking, working with common text editors such as Nano and Vim, package management, and version control. The summer school will also include guest lectures by leading researchers who have leveraged large-scale data for scientific advancement.  
+In this five-day immersive learning event, students will learn facility with the command line, foundations of networking, working with common text editors such as Nano and Vim, package management, and version control. The summer school will also include guest lectures by leading researchers who have leveraged large-scale data for scientific advancement.
+
+**Due to the on-going COVID-19 pandemic, the Summer School will be held virtually.**  Each student will be assigned to a small group under the direction of a faculty member.  The small groups will then connect to the larger group.  If circumstances allow, the groups will meet in-person locally to facilitate instruction, though this will not be required for full participation.  
 \
 
 The summer school is supported by an NSF EPSCoR Track-II Research Infrastructure Improvement Program grant and will be led by the PIs:   
@@ -25,15 +27,12 @@ The summer school is supported by an NSF EPSCoR Track-II Research Infrastructure
 \
 \
 
-### Eligibility  
+### Eligibility and Requirements  
 Per NSF EPSCoRE funding requirements, to be eligible for the Big Data Summer School, you must be a resident of one of the following EPSCoRE states: Alabama, Alaska, Arkansas, Delaware, Guam, Hawaii, Idaho, Iowa, Kansas, Kentucky, Louisiana, Maine, Mississippi, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Dakota, Oklahoma, Puerto Rico, Rhode Island, South Carolina, South Dakota, Vermont, US Virgin Islands, West Virginia, or Wyoming. By applying, you certify that you intend to attend the entire summer school if your application is accepted.
 
 We encourage submissions from undergraduate students and early-stage graduate students who have not had extensive computer science training. We especially encourage the application of students whose identities have historically been under-represented in computational science.  
-\
-\
 
-### Financial Support  
-Financial support for most costs associated with travel, lodging, and subsistence for the duration of the conference will be provided for all students selected for participation in the Big Data Summer School.  
+Due to the virtual nature of the Summer School, students will be required to provide a computer with an internet connection with a download speed of at least 5 MB/sec. 
 \
 \
 
@@ -48,8 +47,8 @@ All applications meeting the eligibility requirements will be placed in a random
 \
 
 ### Important Dates  
-* April 1, 2020: Applications due  
-* April 15, 2020: Notification of acceptance  
+* April 15, 2020: Applications due  
+* April 22, 2020: Notification of acceptance  
 * July 6-10, 2020: Workshop  
 \
 \

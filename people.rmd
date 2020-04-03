@@ -40,13 +40,18 @@ Email: mgreene@bates.edu
 </div>
 \
 \
-
+<div class="column-left">
 ## Mark Lescroart, PhD  
 Department of Psychology  
 University of Nevada, Reno  
 Reno, NV  
 Email: mlescroart@unr.edu  
 **[Pieces of Mind Lab](http://piecesofmind.psyc.unr.edu/)**  
+
+</div>
+<div class="column-right">
+<img src="Mark.jpeg" width="200x" alt="picture of Mark Lescroart">
+</div>
 \
 \
 
@@ -70,76 +75,207 @@ Email: benjamin.balas@ndsu.edu
 
 ## Postdoctoral Researchers
 #### Kamran Binaee, PhD
-
+<img src="Kamran.jpeg" width="200x" alt="picture of Kamran Binaee">  
+University of Nevada, Reno  
+kbinaee@unr.edu
 \
 \
 
 ## Graduate Students
+
+<table style="width:100%">
+  <tr>
+    <th><br/></th>
+    <th><br/></th>
+    <th><br/></th>
+  </tr>
+  <tr>
+    <td>**Arnab Biswas**</td>
+    <td>**Peter Hausamann**</td>
+    <td>**Matthew Shinkle**</td>
+  </tr>
+  <tr>
+    <td>*image*</td>
+    <td>*image*</td>
+    <td><img src="Matthew.jpg" width="150x" alt="picture of Matthew Shinkle"></td>
+  </tr>
+  <tr>
+    <td>*Institution*</td>
+    <td>*Institution*</td>
+    <td>University of Nevada, Reno</td>
+  <tr>
+    <td>arnab.biswas93@gmail.com</td>
+    <td>peter.hausamann@tum.de</td>
+    <td>mshinkle@nevada.unr.edu</td>
+  </tr>
+ <tr>
+    <td><br/></td>
+    <td><br/></td>
+    <td><br/></td>
+  </tr>
+  <tr>
+    <td><br/></td>
+    <td><br/></td>
+    <td><br/></td>
+  </tr>
+  <tr>
+    <td>**Christian Sinnott**</td>
+    <td><br/></td>
+    <td><br/></td>
+  </tr>
+  <tr>
+    <td>*image*</td>
+    <td><br/></td>
+    <td><br/></td>
+  </tr>
+  <tr>
+    <td>University of Nevada, Reno</td>
+    <td><br/></td>
+    <td><br/></td>
+  <tr>
+    <td>csinnott@nevada.unr.edu</td>
+    <td><br/></td>
+    <td><br/></td>
+  </tr>
+</table>
+
+
+\
+\
+
+## Undergraduate Students
 <style>
 .column-l{
   float: left;
-  width: 33%;
+  width: 30%;
   text-align: left;
 }
 .column-c{
   display: inline-block;
-  width: 33%;
+  width: 30%;
   text-align: left;
 }
 .column-r{
   float: right;
-  width: 33%;
+  width: 30%;
   text-align: left;
 }
 </style>
-
 
 <div class="column-l">
-#### Arnab Biswas
-*Picture*  
-*Institution*   
-arnab.biswas93@gmail.com  
-\
-
-#### Christian Sinnott  
-*Picture*  
-University of Nevada, Reno  
-csinnott@nevada.unr.edu  
+#### Bates College
 </div>
 <div class="column-c">
-#### Peter Hausamann  
-*Picture*  
-University of Nevada, Reno    
-peter.hausamann@tum.de    
+#### Univ. of Nevada, Reno
 </div>
 <div class="column-r">
-#### Matthew Shinkle  
-*Picture*  
-University of Nevada, Reno    
-mshinkle1040@gmail.com    
+#### North Dakota State Univ.
 </div>
-\
-\
-\
-\
-\
-\
 
 
-<style>
-.column-left{
-  float: left;
-  width: 50%;
-  text-align: left;
-}
-}
-.column-right{
-  float: right;
-  width: 50%;
-  text-align: left;
-}
-</style>
-\
+<table style="width:100%">
+  <tr>
+    <th>Bates College</th>
+    <th>Univ. of Nevada, Reno</th>
+    <th>North Dakota State Univ.</th>
+  </tr>
+   <tr>
+    <td><br/></td>
+    <td><br/></td>
+    <td><br/></td>
+  </tr>
+  <tr>
+    <td>**Juliet Bockhorst**</td>
+    <td>**Hunter Howe**</td>
+    <td>**Allie Gieger**</td>
+  </tr>
+  <tr>
+    <td>*image*</td>
+    <td><img src="Hunter.png" width="150x" alt="picture of Hunter Howe"></td>
+    <td>*image*</td>
+  </tr>
+  <tr>
+    <td>jbockhor@bates.edu</td>
+    <td>hhowe@nevada.unr.edu</td>
+    <td>allie.gieger.ndsu.edu</td>
+  </tr>
+    <tr>
+    <td><br/></td>
+    <td><br/></td>
+    <td><br/></td>
+  </tr>
+  <tr>
+    <td><br/></td>
+    <td><br/></td>
+    <td><br/></td>
+  </tr>
+  <tr>
+    <td>**Peter Riley**</td>
+    <td>**Monica Martinez**</td>
+    <td>**Lane Hallock**</td>
+  </tr>
+  <tr>
+    <td>*image*</td>
+    <td>*image*</td>
+    <td>*image*</td>
+  </tr>
+  <tr>
+    <td>priley@bates.edu</td>
+    <td>mmart22123@gmail.com</td>
+    <td>lane.w.hallock@ndsu.edu</td>
+  </tr>
+    <tr>
+    <td><br/></td>
+    <td><br/></td>
+    <td><br/></td>
+  </tr>
+  <tr>
+    <td><br/></td>
+    <td><br/></td>
+    <td><br/></td>
+  </tr>
+  <tr>
+    <td><br/></td>
+    <td>**Kaylie Capurro**</td>
+    <td>**Kyle Nietfeld**</td>
+  </tr>
+  <tr>
+    <td><br/></td>
+    <td>*image*</td>
+    <td>*image*</td>
+  </tr>
+  <tr>
+    <td><br/></td>
+    <td>capurro.kaylie@gmail.com</td>
+    <td>kyle.nietfeld@ndsu.edu</td>
+  </tr>
+  </tr>
+  <tr>
+    <td><br/></td>
+    <td><br/></td>
+    <td><br/></td>
+  </tr>
+  <tr>
+    <td><br/></td>
+    <td><br/></td>
+    <td><br/></td>
+  </tr>
+  <tr>
+    <td><br/></td>
+    <td><br/></td>
+    <td>**Joshua Sunstrom**</td>
+  </tr>
+  <tr>
+    <td><br/></td>
+    <td><br/></td>
+    <td>*image*</td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>  </td>
+    <td>joshua.sunstrom@ndsu.edu</td>
+  </tr>
+</table>
 \
 
 <div class="column-left">
