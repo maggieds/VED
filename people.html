@@ -16,7 +16,7 @@
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -72,6 +72,7 @@ h6 {
 }
 </style>
 
+<link rel="stylesheet" href="mystyle.css" type="text/css" />
 
 
 
@@ -335,42 +336,26 @@ div.tocify {
 
 
 
-
-<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html"><img ="<img src="Logowhite.jpg" width ="125x" style="margin-bottom:100px"/></a>
+    <div class="navbar-header">
+        <a class="navbar-brand"><img src="Logoeye.png"></a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li>
-  <a href="index.html">Home</a>
-</li>
-<li>
-  <a href="about.html">About</a>
-</li>
-<li>
-  <a href="people.html">People</a>
-</li>
-<li>
-  <a href="summerschool.html">Summer School</a>
-</li>
-<li>
-  <a href="researchers.html">For Researchers</a>
-</li>
-<li>
-  <a href="news.html">News</a>
-</li>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="people.html">People</a></li>
+        <li><a href="summerschool.html">Summer School</a></li>
+        <li><a href="news.html">What's New</a></li>
+        <li><a href="researchers.html">For Researchers</a></li>
       </ul>
-      <ul class="nav navbar-nav navbar-right">
-        
-      </ul>
-    </div><!--/.nav-collapse -->
+      </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
 
@@ -397,7 +382,7 @@ div.tocify {
 }
 </style>
 <div class="column-left">
-<h2 id="michelle-greene-phd">Michelle Greene, PhD</h2>
+<h1 id="michelle-greene-phd">Michelle Greene, PhD</h1>
 <p>Assist. Prof. of Neuroscience<br />
 Bates College<br />
 Lewiston, ME<br />
@@ -405,13 +390,13 @@ Email: <a href="mailto:mgreene@bates.edu" class="email">mgreene@bates.edu</a><br
 <strong><a href="http://michellegreene.org/index.html">The Greene Lab</a></strong></p>
 </div>
 <div class="column-right">
-<p><img src="MichelleGreene.jpg" width="200x" alt="picture of Michelle Greene"></p>
+<p><img src="MichelleGreene.jpg" width="175x" alt="picture of Michelle Greene"></p>
 </div>
 <br />
 <br />
 
 <div class="column-left">
-<h2 id="mark-lescroart-phd">Mark Lescroart, PhD</h2>
+<h1 id="mark-lescroart-phd">Mark Lescroart, PhD</h1>
 <p>Department of Psychology<br />
 University of Nevada, Reno<br />
 Reno, NV<br />
@@ -419,13 +404,13 @@ Email: <a href="mailto:mlescroart@unr.edu" class="email">mlescroart@unr.edu</a><
 <strong><a href="http://piecesofmind.psyc.unr.edu/">Pieces of Mind Lab</a></strong></p>
 </div>
 <div class="column-right">
-<p><img src="Mark.jpeg" width="200x" alt="picture of Mark Lescroart"></p>
+<p><img src="Mark.jpeg" width="175x" alt="picture of Mark Lescroart"></p>
 </div>
-<p><br />
 <br />
-</p>
-<div id="paul-macneilage-phd" class="section level2">
-<h2>Paul MacNeilage, PhD</h2>
+<br />
+
+<div class="column-left">
+<h1 id="paul-macneilage-phd">Paul MacNeilage, PhD</h1>
 <p>Department of Psychology<br />
 University of Nevada, Reno<br />
 Reno, NV<br />
@@ -435,8 +420,14 @@ Email: <a href="mailto:pmacneilage@unr.edu" class="email">pmacneilage@unr.edu</a
 <br />
 </p>
 </div>
-<div id="benjamin-balas-phd" class="section level2">
-<h2>Benjamin Balas, PhD</h2>
+<div class="column-right">
+<p><img src="Pogen.jpg" width="175x" alt="picture of Paul MacNeilage"></p>
+</div>
+<p><br />
+<br />
+</p>
+<div id="benjamin-balas-phd" class="section level1">
+<h1>Benjamin Balas, PhD</h1>
 <p>Department of Psychology<br />
 North Dakota State University<br />
 Fargo, ND<br />
@@ -446,378 +437,102 @@ Email: <a href="mailto:benjamin.balas@ndsu.edu" class="email">benjamin.balas@nds
 <br />
 </p>
 </div>
-<div id="postdoctoral-researchers" class="section level2">
-<h2>Postdoctoral Researchers</h2>
-<div id="kamran-binaee-phd" class="section level4">
-<h4>Kamran Binaee, PhD</h4>
-<p><img src="Kamran.jpeg" width="200x" alt="picture of Kamran Binaee"><br />
+<div id="postdoctoral-researchers" class="section level1">
+<h1>Postdoctoral Researchers</h1>
+<div id="kamran-binaee-phd" class="section level2">
+<h2>Kamran Binaee, PhD</h2>
+<p><img src="Kamran.jpeg" width="175x" alt="picture of Kamran Binaee"><br />
 University of Nevada, Reno<br />
 <a href="mailto:kbinaee@unr.edu" class="email">kbinaee@unr.edu</a><br />
 <br />
 </p>
 </div>
 </div>
-<div id="graduate-students" class="section level2">
-<h2>Graduate Students</h2>
-<table style="width:100%">
-<tr>
-<th>
+<div id="graduate-students" class="section level1">
+<h1>Graduate Students</h1>
+<div>
+<div class="row">
+<div class="col-md-4">
+<p><strong>Arnab Biswas</strong><br />
+<em>image</em><br />
+Univ. of Nevada, Reno<br />
+<a href="mailto:arnab.biswas93@gmail.com" class="email">arnab.biswas93@gmail.com</a></p>
+</div>
+<div class="col-md-4">
+<p><strong>Peter Hausamann</strong><br />
+<em>image</em><br />
+Institution<br />
+<a href="mailto:peter.hausamann@tum.de" class="email">peter.hausamann@tum.de</a></p>
+</div>
+<div class="col-md-4">
+<p><strong>Matthew Shinkle</strong><br />
+<img src="Matthew.jpg" width="150x" alt="picture of Matthew Shinkle"><br />
+University of Nevada, Reno<br />
+<a href="mailto:mshinkle@nevada.unr.edu" class="email">mshinkle@nevada.unr.edu</a></p>
+</div>
+<div class="col-md-4">
+<p><strong>Christian Sinnott</strong><br />
+<img src="Christian.jpg" width="150x" alt="picture of Christian Sinnott"><br />
+Univ. of Nevada, Reno<br />
+<a href="mailto:csinnott@nevada.unr.edu" class="email">csinnott@nevada.unr.edu</a></p>
+</div>
+</div>
+<p><br/> <br/></p>
+</div>
+<div id="undergraduate-students" class="section level1">
+<h1>Undergraduate Students</h1>
 <br/>
-</th>
-<th>
-<br/>
-</th>
-<th>
-<br/>
-</th>
-</tr>
-<tr>
-<td>
-<strong>Arnab Biswas</strong>
-</td>
-<td>
-<strong>Peter Hausamann</strong>
-</td>
-<td>
-<strong>Matthew Shinkle</strong>
-</td>
-</tr>
-<tr>
-<td>
-<em>image</em>
-</td>
-<td>
-<em>image</em>
-</td>
-<td>
-<img src="Matthew.jpg" width="150x" alt="picture of Matthew Shinkle">
-</td>
-</tr>
-<tr>
-<td>
-<em>Institution</em>
-</td>
-<td>
-<em>Institution</em>
-</td>
-<td>
-University of Nevada, Reno
-</td>
-<tr>
-<td>
-<a href="mailto:arnab.biswas93@gmail.com" class="email">arnab.biswas93@gmail.com</a>
-</td>
-<td>
-<a href="mailto:peter.hausamann@tum.de" class="email">peter.hausamann@tum.de</a>
-</td>
-<td>
-<a href="mailto:mshinkle@nevada.unr.edu" class="email">mshinkle@nevada.unr.edu</a>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<strong>Christian Sinnott</strong>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<em>image</em>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-University of Nevada, Reno
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<tr>
-<td>
-<a href="mailto:csinnott@nevada.unr.edu" class="email">csinnott@nevada.unr.edu</a>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-</table>
+<div>
+<div class="row">
+<div class="col-md-4">
+<h2 id="bates-college">Bates College</h2>
+<p><br/></p>
+<p><strong>Juliet Bockhorst</strong><br />
+<a href="mailto:jbockhor@bates.edu" class="email">jbockhor@bates.edu</a><br />
+<br/></p>
+<p><strong>Peter Riley</strong><br />
+<a href="mailto:priley@bates.edu" class="email">priley@bates.edu</a></p>
+</div>
+<div class="col-md-4">
+<h2 id="univ.-of-nevada-reno">Univ. of Nevada, Reno</h2>
+<p><br/></p>
+<p><strong>Hunter Howe</strong> <img src="Hunter.png" width="150x" alt="picture of Hunter Howe"><br />
+<a href="mailto:hhowe@nevada.unr.edu" class="email">hhowe@nevada.unr.edu</a><br />
+<br/></p>
+<p><strong>Monica Martinez</strong><br />
+<a href="mailto:mmart22123@gmail.com" class="email">mmart22123@gmail.com</a><br />
+<br/></p>
+<p><strong>Kaylie Capurro</strong><br />
+<a href="mailto:capurro.kaylie@gmail.com" class="email">capurro.kaylie@gmail.com</a></p>
+</div>
+<div class="col-md-4">
+<h2 id="north-dakota-state-univ.">North Dakota State Univ.</h2>
+<p><br/></p>
+<p><strong>Allie Gieger</strong><br />
+<a href="mailto:allie.gieger@ndsu.edu" class="email">allie.gieger@ndsu.edu</a><br />
+<br/></p>
+<p><strong>Lane Hallock</strong><br />
+<a href="mailto:lane.w.hallock@ndsu.edu" class="email">lane.w.hallock@ndsu.edu</a><br />
+<br/></p>
+<p><strong>Kyle Nietfeld</strong><br />
+<a href="mailto:kyle.nietfeld@ndsu.edu" class="email">kyle.nietfeld@ndsu.edu</a><br />
+<br/></p>
+<p><strong>Joshua Sunstrom</strong><br />
+<a href="mailto:joshua.sunstrom@ndsu.edu" class="email">joshua.sunstrom@ndsu.edu</a></p>
+</div>
+</div>
 <p><br />
 <br />
 </p>
-</div>
-<div id="undergraduate-students" class="section level2">
-<h2>Undergraduate Students</h2>
-<table style="width:100%">
-<tr>
-<th>
-Bates College
-</th>
-<th>
-Univ. of Nevada, Reno
-</th>
-<th>
-North Dakota State Univ.
-</th>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<strong>Juliet Bockhorst</strong>
-</td>
-<td>
-<strong>Hunter Howe</strong>
-</td>
-<td>
-<strong>Allie Gieger</strong>
-</td>
-</tr>
-<tr>
-<td>
-<em>image</em>
-</td>
-<td>
-<img src="Hunter.png" width="150x" alt="picture of Hunter Howe">
-</td>
-<td>
-<em>image</em>
-</td>
-</tr>
-<tr>
-<td>
-<a href="mailto:jbockhor@bates.edu" class="email">jbockhor@bates.edu</a>
-</td>
-<td>
-<a href="mailto:hhowe@nevada.unr.edu" class="email">hhowe@nevada.unr.edu</a>
-</td>
-<td>
-allie.gieger.ndsu.edu
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<strong>Peter Riley</strong>
-</td>
-<td>
-<strong>Monica Martinez</strong>
-</td>
-<td>
-<strong>Lane Hallock</strong>
-</td>
-</tr>
-<tr>
-<td>
-<em>image</em>
-</td>
-<td>
-<em>image</em>
-</td>
-<td>
-<em>image</em>
-</td>
-</tr>
-<tr>
-<td>
-<a href="mailto:priley@bates.edu" class="email">priley@bates.edu</a>
-</td>
-<td>
-<a href="mailto:mmart22123@gmail.com" class="email">mmart22123@gmail.com</a>
-</td>
-<td>
-<a href="mailto:lane.w.hallock@ndsu.edu" class="email">lane.w.hallock@ndsu.edu</a>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<strong>Kaylie Capurro</strong>
-</td>
-<td>
-<strong>Kyle Nietfeld</strong>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<em>image</em>
-</td>
-<td>
-<em>image</em>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<a href="mailto:capurro.kaylie@gmail.com" class="email">capurro.kaylie@gmail.com</a>
-</td>
-<td>
-<a href="mailto:kyle.nietfeld@ndsu.edu" class="email">kyle.nietfeld@ndsu.edu</a>
-</td>
-</tr>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<strong>Joshua Sunstrom</strong>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<em>image</em>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-</td>
-<td>
-<a href="mailto:joshua.sunstrom@ndsu.edu" class="email">joshua.sunstrom@ndsu.edu</a>
-</td>
-</tr>
-</table>
-<p><br />
-</p>
 <div class="column-left">
-<h2 id="administrative-contact">Administrative Contact</h2>
+<h1 id="administrative-contact">Administrative Contact</h1>
 <p>Maggie Diamond-Stanic, PhD<br />
 Program in Neuroscience Bates College<br />
 Lewiston, ME<br />
 Email: <a href="mailto:mdiamond@bates.edu" class="email">mdiamond@bates.edu</a></p>
 </div>
 <div class="column-right2">
-<p><img src="MaggieDS.jpg" width="200x" alt="picture of Maggie Diamond-Stanic"></p>
+<p><img src="MaggieDS.jpg" width="175x" alt="picture of Maggie Diamond-Stanic"></p>
 </div>
 </div>
 

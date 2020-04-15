@@ -2,29 +2,65 @@
 title: ""
 author: ""
 output: 
-  html_document:
-      theme: cerulean
+  html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-\
+<br/>
+<br/>
+<div>
+<div class="row">
 
+<div class = "col-md-8">
 The **Visual Experience Database (VED)** is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking.  By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.  
-\
+</div>
 
-We're recording data for the VED!  Head over to the [News](https://maggieds.github.io/VED/news.html) page to find out what's going on in the video below.
-\
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iChh6G4mqbc" title="video of participant walking around UNR campus wearing data recording device.  Video has no sound" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-</center>
-\
-
-**The creation of the VED is supported by an NSF EPSCoR Research Infrastructure Improvement Program: Track-2 Focused EPSCoR Collaborations grant (award #1920896).**  
-
+<div class = "col-md-4">
+<br/>
 <center>
 <img src="Logo.jpg" width="400x" alt="VED logo showing name and drawing of an eye with a camera in the pupil">  
 </center>
+</div>
+</div>
+<br/>
+<br/>
+
+<div>
+<div class="flex-container">
+
+<div class="flex-item">
+<div>
+The [**Big Data Summer School**](https://maggieds.github.io/VED/summerschool.html) is happening virtually this year.  
 \
+<center>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdBWa9--esGaGVGH20jkqpWrzqiYLBGxz44TLAEvhZLLmHYSw/viewform?usp=sf_link" class=button>Apply Now</a>
+</center>
+</div>
+</div>
+
+<div class="flex-item">
+<div>
+We're recording data for the VED!  Head over to the [**News**](https://maggieds.github.io/VED/news.html) page to find out what's going on in the video below.
+</div>
+</div>
+
+<div class="flex-item">
+<div>
+**Get Involved**  
+We are seeking participants to record first person video data. See the [**Volunteer to Participant**](https://maggieds.github.io/VED/news.html) section for more information.  
+<br/>
+[**Researchers**](https://maggieds.github.io/VED/researchers.html), the VED data and software are available on an open-access basis after a short embargo period.  We're also happy to collaborate!
+</div>
+</div>
+</div>
+
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iChh6G4mqbc" title="video of participant walking around UNR campus wearing data recording device.  Video has no sound" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+</center>
+
 \
+
+*The creation of the VED is supported by an NSF EPSCoR Research Infrastructure Improvement Program: Track-2 Focused EPSCoR Collaborations grant (award #1920896).*  

@@ -4,9 +4,8 @@ author: ""
 output: 
   html_document:
       toc: true
-      toc_depth: 3
+      toc_depth: 1
       toc_float: true
-      theme: cerulean
 ---
 
 ```{r setup, include=FALSE}
@@ -33,10 +32,9 @@ We are seeking participants to assist with data collection.  Participation invol
 \
 
 # Publications and Presentations
-\
 
 ## 32nd CVS Symposium: Active Vision - poster presentation by Kamran Binaee
-Kamran Binaee, a postdoctoral researcher at the University of Nevada, Reno, will be presenting a methods poster describing the creation of the VED at the [Center for Visual Science](https://www.cvs.rochester.edu/symposium/index.html) [32nd Symposium: Active Vision](https://www.cvs.rochester.edu/symposium/index.html) to be held at the University of Rochester June 10-13, 2020.  
+Kamran Binaee, a postdoctoral researcher at the University of Nevada, Reno, will be presenting a methods poster describing the creation of the VED at the [Center for Visual Science](https://www.cvs.rochester.edu/index.html) [32nd Symposium: Active Vision](https://www.cvs.rochester.edu/symposium/index.html) to be held at the University of Rochester June 2-5, 2021. Note: This conference has been rescheduled from June, 2020 due to the Covid-19 pandemic  
 \
 **Title:** The Visual Experience Database: a large-scale point-of-view database for vision research  
 **Authors:** Kamran Binaee, Christian Sinnott, Paul MacNeilage, Mark Lescroart, Benjamin Balas, Michelle R. Greene  

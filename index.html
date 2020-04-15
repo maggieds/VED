@@ -16,7 +16,7 @@
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -69,6 +69,7 @@ h6 {
 }
 </style>
 
+<link rel="stylesheet" href="mystyle.css" type="text/css" />
 
 
 
@@ -259,42 +260,26 @@ $(document).ready(function () {
 
 
 
-
-<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html"><img ="<img src="Logowhite.jpg" width ="125x" style="margin-bottom:100px"/></a>
+    <div class="navbar-header">
+        <a class="navbar-brand"><img src="Logoeye.png"></a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li>
-  <a href="index.html">Home</a>
-</li>
-<li>
-  <a href="about.html">About</a>
-</li>
-<li>
-  <a href="people.html">People</a>
-</li>
-<li>
-  <a href="summerschool.html">Summer School</a>
-</li>
-<li>
-  <a href="researchers.html">For Researchers</a>
-</li>
-<li>
-  <a href="news.html">News</a>
-</li>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="people.html">People</a></li>
+        <li><a href="summerschool.html">Summer School</a></li>
+        <li><a href="news.html">What's New</a></li>
+        <li><a href="researchers.html">For Researchers</a></li>
       </ul>
-      <ul class="nav navbar-nav navbar-right">
-        
-      </ul>
-    </div><!--/.nav-collapse -->
+      </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
 
@@ -306,26 +291,52 @@ $(document).ready(function () {
 </div>
 
 
-<p><br />
-</p>
-<p>The <strong>Visual Experience Database (VED)</strong> is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking. By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.<br />
+<br/> <br/>
+<div>
+<div class="row">
+<div class="col-md-8">
+<p>The <strong>Visual Experience Database (VED)</strong> is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking. By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.</p>
+</div>
+<div class="col-md-4">
+<br/>
+<center>
+<img src="Logo.jpg" width="400x" alt="VED logo showing name and drawing of an eye with a camera in the pupil">
+</center>
+</div>
+</div>
+<p><br/> <br/></p>
+<div>
+<div class="flex-container">
+<div class="flex-item">
+<div>
+The <a href="https://maggieds.github.io/VED/summerschool.html"><strong>Big Data Summer School</strong></a> is happening virtually this year.<br />
 <br />
-</p>
-We’re recording data for the VED! Head over to the <a href="https://maggieds.github.io/VED/news.html">News</a> page to find out what’s going on in the video below.<br />
 
+<center>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdBWa9--esGaGVGH20jkqpWrzqiYLBGxz44TLAEvhZLLmHYSw/viewform?usp=sf_link" class=button>Apply Now</a>
+</center>
+</div>
+</div>
+<div class="flex-item">
+<div>
+<p>We’re recording data for the VED! Head over to the <a href="https://maggieds.github.io/VED/news.html"><strong>News</strong></a> page to find out what’s going on in the video below.</p>
+</div>
+</div>
+<div class="flex-item">
+<div>
+<p><strong>Get Involved</strong><br />
+We are seeking participants to record first person video data. See the <a href="https://maggieds.github.io/VED/news.html"><strong>Volunteer to Participant</strong></a> section for more information.<br />
+<br/> <a href="https://maggieds.github.io/VED/researchers.html"><strong>Researchers</strong></a>, the VED data and software are available on an open-access basis after a short embargo period. We’re also happy to collaborate!</p>
+</div>
+</div>
+</div>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iChh6G4mqbc" title="video of participant walking around UNR campus wearing data recording device.  Video has no sound" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </center>
 <p><br />
 </p>
-<p><strong>The creation of the VED is supported by an NSF EPSCoR Research Infrastructure Improvement Program: Track-2 Focused EPSCoR Collaborations grant (award #1920896).</strong></p>
-<center>
-<img src="Logo.jpg" width="400x" alt="VED logo showing name and drawing of an eye with a camera in the pupil">
-</center>
-<p><br />
-<br />
-</p>
+<p><em>The creation of the VED is supported by an NSF EPSCoR Research Infrastructure Improvement Program: Track-2 Focused EPSCoR Collaborations grant (award #1920896).</em></p>
 
 
 

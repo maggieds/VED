@@ -1,22 +1,5 @@
 name: "Visual Experience Database"
 output_dir: "."
-navbar:
-  title: <img ="<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\Logowhite.jpg" width ="125x" style="margin-bottom:100px"/>
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-    - text: "People"
-      href: people.html
-    - text: "Summer School"
-      href: summerschool.html
-    - text: "For Researchers"
-      href: researchers.html
-    - text: "News"
-      href: news.html
 output: 
   html_document:
-      theme: cerulean
-      html lang: en
-    
+      css: mystyle.css
