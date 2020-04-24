@@ -123,8 +123,15 @@ progress {
 
 .navbar .navbar-default .navbar-fixed-top {
     display: flex;
-    height: 60px;
+    height: 50px;
     flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    height: 50px;
     justify-content: space-around;
     align-items: center;
 }
