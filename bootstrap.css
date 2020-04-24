@@ -63,9 +63,9 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 1rem;
+  font-size: 1.75rem;
   font-weight: 400;
-  line-height: 1.5;
+  line-height: 1.4;
   color: #495057;
   text-align: left;
   background-color: #fff;
@@ -161,7 +161,7 @@ sup {
 }
 
 a {
-  color: #2FA4E7;
+  color: #0c62ad;
   text-decoration: none;
   background-color: transparent;
 }
@@ -369,7 +369,7 @@ h1, h2, h3, h4, h5, h6,
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
-  color: #2FA4E7;
+  color: #0c62ad;
 }
 
 h1, .h1 {
@@ -4550,7 +4550,7 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
-  border-color: #e9ecef #e9ecef #dee2e6;
+  border-color: #157ab5 #157ab5 #d157ab5;
 }
 
 .nav-tabs .nav-link.disabled {
@@ -4609,13 +4609,14 @@ input[type="button"].btn-block {
 .navbar {
   position: relative;
   display: -webkit-box;
+  -webkit-box-orient: horizontal;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -webkit-box-align: right;
+      -ms-flex-align: left;
+          align-items: left;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
@@ -4655,7 +4656,7 @@ input[type="button"].btn-block {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
+  -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
@@ -5785,10 +5786,10 @@ a.badge-dark:focus, a.badge-dark.focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
+  -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+      -ms-flex-direction: row;
+          flex-direction: row;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;

@@ -3,6 +3,8 @@ title: ""
 author: ""
 output: 
   html_document
+    
+   
 ---
 
 ```{r setup, include=FALSE}
@@ -14,53 +16,57 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class="row">
 
 <div class = "col-md-8">
-The **Visual Experience Database (VED)** is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking.  By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.  
+<div>
+The **Visual Experience Database (VEDB)** is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking.  By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.  *The creation of the VEDB is supported by an NSF EPSCoR Research Infrastructure Improvement Program: Track-2 Focused EPSCoR Collaborations grant (award #1920896).* 
+</div>
+<br/>
+<br/>
+
+<div class="flex-container">
+<div class="flex-item">
+<div>
+<img src="summer_school.png" width=auto alt="image of a cartoon sun with sunglasses and stylized Big Data Summer School words"> 
+The [**Big Data Summer School**](https://maggieds.github.io/VED/summerschool.html) is happening virtually on July 6-10 this year. 
+</div>
+</div>
+
+<br/>
+
+<div class="flex-item">
+<div>
+<center><img src="recording.png" width=auto alt="stylized text saying "We're recording for the VEDB"> </center>  
+Head over to the [**News**](https://maggieds.github.io/VED/news.html) page to find out what's going on in the video below.
+<center>
+<iframe width=auto src="https://www.youtube.com/embed/iChh6G4mqbc" title="video of participant walking around UNR campus wearing data recording device.  Video has no sound" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+</center>
+</div>
+</div>
+</div>
 </div>
 
 <div class = "col-md-4">
-<br/>
-<center>
-<img src="Logo.jpg" width="400x" alt="VED logo showing name and drawing of an eye with a camera in the pupil">  
-</center>
-</div>
-</div>
-<br/>
-<br/>
+<div class = "container-sidebar">
+<div class="flex-container-sidebar">
 
-<div>
-<div class="flex-container">
+<center>
+# Get Involved
+</center>
 
 <div class="flex-item">
 <div>
-The [**Big Data Summer School**](https://maggieds.github.io/VED/summerschool.html) is happening virtually this year.  
-\
-<center>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdBWa9--esGaGVGH20jkqpWrzqiYLBGxz44TLAEvhZLLmHYSw/viewform?usp=sf_link" class=button>Apply Now</a>
-</center>
+## Help Us Record!
+We are seeking participants to record first person video data. See the [**Volunteer to Participate**](https://maggieds.github.io/VED/news.html) section for more information. 
 </div>
 </div>
-
-<div class="flex-item">
-<div>
-We're recording data for the VED!  Head over to the [**News**](https://maggieds.github.io/VED/news.html) page to find out what's going on in the video below.
-</div>
-</div>
-
-<div class="flex-item">
-<div>
-**Get Involved**  
-We are seeking participants to record first person video data. See the [**Volunteer to Participant**](https://maggieds.github.io/VED/news.html) section for more information.  
 <br/>
-[**Researchers**](https://maggieds.github.io/VED/researchers.html), the VED data and software are available on an open-access basis after a short embargo period.  We're also happy to collaborate!
+<div class="flex-item">
+<div>
+## Research your own questions!  
+The [VEDB data and software](https://maggieds.github.io/VED/researchers.html) are available on an open-access basis after a short embargo period.  We're also happy to collaborate!
 </div>
 </div>
 </div>
+</div>
+</div>
 
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iChh6G4mqbc" title="video of participant walking around UNR campus wearing data recording device.  Video has no sound" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-</center>
-
-\
-
-*The creation of the VED is supported by an NSF EPSCoR Research Infrastructure Improvement Program: Track-2 Focused EPSCoR Collaborations grant (award #1920896).*  

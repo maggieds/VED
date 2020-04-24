@@ -134,10 +134,12 @@ csinnott@nevada.unr.edu
 
 **Juliet Bockhorst**  
 jbockhor@bates.edu  
+<img src="JulietBockhorst.jpg" width="150x" alt="picture of Juliet Bockhorst">  
 <br/>
 
 **Peter Riley**  
 priley@bates.edu  
+<img src="PeterRiley.jpg" width="150x" alt="picture of Peter Riley"> 
 </div>
 
 <div class = "col-md-4">

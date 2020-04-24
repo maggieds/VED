@@ -12,7 +12,7 @@
 <meta name="author" content="" />
 
 
-<title>About the VED</title>
+<title>About the VEDB</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -262,14 +262,14 @@ $(document).ready(function () {
 
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
-    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+     <div class="navbar-header">
+        <a class="navbar-brand"><img src="VEDB_logo.png" alt="VED logo of drawing of an eye with a camera in the pupil"></a>
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-    <div class="navbar-header">
-        <a class="navbar-brand"><img src="Logoeye.png"></a>
-    </div>
+  </div> 
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li><a href="index.html">Home</a></li>
@@ -287,7 +287,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About the VED</h1>
+<h1 class="title toc-ignore">About the VEDB</h1>
 
 </div>
 
@@ -296,30 +296,45 @@ $(document).ready(function () {
 <p>Vision is an active process, and in order to fully characterize natural scene statistics it is necessary to characterize what human observers actually fixate in the world. Vision researchers have been fundamentally constrained in the types of insights they can obtain due to limitations of the datasets available for study, including: small dataset size, narrow or otherwise unprincipled sampling of human visual experience, and photographer bias. In addition, many datasets sample broadly from static images on the Internet, but these do not capture dynamic experiences and still reflect aesthetic preferences and other photographic biases.<br />
 <br />
 </p>
+<p>Our database creation is guided by the following three criteria: <br/></p>
+<div class="flex-container">
+<div class="flex-item-plain">
 <div>
-<div class="row">
-<div class="col-md-8">
-<p>The <strong>Visual Experience Database</strong> is a pioneering new, large-scale (up to 240 hours of recordings) database of first-person visual experience. The database comprises a direct sampling of real visual inputs and addresses the limitations of prior datasets.</p>
-<p>Our database creation is guided by the following three criteria:</p>
-<ol style="list-style-type: decimal">
-<li><p>The data should be collected from a first-person perspective, with eye tracking. Cameras simulate first-person perspective, but are often aimed in ways that human eyes are not. Thus, it is critical that cameras be head-mounted and that eye tracking data be collected to reveal the specific objects, people, and locations that the observer is looking at.</p></li>
-<li><p>The data should reflect a broad and unbiased sampling of locations, tasks, and events from daily life, across a wide variety of observers. Here, we take our cue from recent principled efforts to sample static images of scenes and objects based on natural frequencies, and extend the same logic to first-person video collection.</p></li>
-<li><p>The database should be accessible to all, regardless of technical experience or skill. If one can query a search engine, one should be able to access these data in a usable format.</p></li>
-</ol>
-</div>
-<div class="col-md-4">
-<figure>
+<strong>1. First person perspective</strong><br />
+
 <center>
-<img src="cameras.jpg" width="500x" alt="picture of cameras used to record data for the VED mounted on a headband">
+<img src="eyetracking.jpg" alt="picture of cameras used to record data for the VEDB mounted on a headband">
 </center>
-<figcaption>
+<p>The data should be collected from a first-person perspective, with eye tracking. Cameras simulate first-person perspective, but are often aimed in ways that human eyes are not. Thus, it is critical that cameras be head-mounted and that eye tracking data be collected to reveal the specific objects, people, and locations that the observer is looking at.</p>
+</div>
+</div>
+<div class="flex-item-plain">
+<div>
+<strong>2. Broad, unbiased sampling</strong><br />
+
+<center>
+<img src="sampling.png" alt="collage of pictures of University of Nevada campus from air, Lewiston Maine waterfall, corn field, close-up of face, grocery store aisle from perspective of someone pushing a cart">
+</center>
+<p>The data should reflect a broad and unbiased sampling of locations, tasks, and events from daily life, across a wide variety of observers. Here, we take our cue from recent principled efforts to sample static images of scenes and objects based on natural frequencies, and extend the same logic to first-person video collection.</p>
+</div>
+</div>
+<div class="flex-item-plain">
+<div>
+<strong>3. Accessible to all</strong>
+<center>
+<img src="open_access.png" width=125% alt="collage of pictures of University of Nevada campus from air, Lewiston Maine waterfall, corn field, close-up of face, grocery store aisle from perspective of someone pushing a cart">
+</center>
+<p>The database should be accessible to all, regardless of technical experience or skill. If one can query a search engine, one should be able to access these data in a usable format.</p>
+</div>
+</div>
+</div>
+<div>
 Head-centered videos and eye tracking data are recorded using three cameras: two for monitoring eye position and one for recording the view of the environment. To eliminate corneal reflections outdoors, a filter constructed of disposable plastic optometrist sunglasses is used. Head tracking is facilitated by rigidly mounting both an inertial measurement unit and a global positioning system to the environment camera. All devices are connected to a laptop, carried in a backpack, that aggregates the data.
-</figcaption>
-</figure>
+<center>
+<img src="cameras.jpg" width=75% alt="images showing head-mounted cameras for simlutaneous first person video recording and recording eye movement to be used to capture data for the VEDB">
+</center>
 </div>
-</div>
-<p><br />
-</p>
+<p><br/> <br/></p>
 <p><em>This material is based upon work supported by the National Science Foundation under Grant No. 1920896</em></p>
 
 

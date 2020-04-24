@@ -1,5 +1,5 @@
 ---
-title: "Big Data Summer School"
+title: ""
 subtitle: "July 6-10, 2020"
 author: ""
 output: 
@@ -8,10 +8,11 @@ output:
       toc_depth: 3
       toc_float: true
 ---
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdBWa9--esGaGVGH20jkqpWrzqiYLBGxz44TLAEvhZLLmHYSw/viewform?usp=sf_link" class=button>Apply Now</a>
-         
+<center>
+<img src="summer_school.png" width=auto alt="image of a cartoon sun with sunglasses and stylized Big Data Summer School words"> 
+</center>
 
-We are currently accepting applications for the first annual Big Data Summer School to be held  July 6-10, 2020.  The aim of the summer school is to provide undergraduate and early graduate students with the foundational skills necessary to work with the types of large-scale datasets that are common in 21st century scientific research. 
+The first annual Big Data Summer School will be held  July 6-10, 2020.  The aim of the summer school is to provide undergraduate and early graduate students with the foundational skills necessary to work with the types of large-scale datasets that are common in 21st century scientific research. 
 
 In this five-day immersive learning event, students will learn facility with the command line, foundations of networking, working with common text editors such as Nano and Vim, package management, and version control. The summer school will also include guest lectures by leading researchers who have leveraged large-scale data for scientific advancement.
 
@@ -59,5 +60,6 @@ Maggie Diamond-Stanic
 Grant Coordinator  
 Bates College  
 mdiamond@bates.edu
+
 
 
