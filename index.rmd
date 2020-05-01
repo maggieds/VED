@@ -35,7 +35,14 @@ The [VEDB data and software](https://maggieds.github.io/VED/researchers.html) ar
 
 <div class="float-left-area">
 <div>
-<img src="vedb-logo.png" width="25%" alt="VED logo of drawing of an eye with a camera in the pupil" align="left" />The **Visual Experience Database (VEDB)** is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking.  By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.
+<center>
+# The Visual Experience Database  
+</center>
+<img src="vedb-logo.png" width="32%" alt="VED logo of drawing of an eye with a camera in the pupil" align="left" /> 
+<li> A database of video captured from head-mounted cameras combined with recordings of the videographer’s eye movements</li>
+<li> Recoded by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking.</li>
+<li> Bypasses many of the biases of existingin databases by representing common, human experiences</li>
+<li> Increases the efficacy of computer vision algorithms.
 </div>
 
 <br/>
@@ -52,9 +59,10 @@ The [**Big Data Summer School**](https://maggieds.github.io/VED/summerschool.htm
 <center><img src="recording.png" width=auto alt="stylized text saying We're recording for the VEDB"> </center>  
 Head over to the [**News**](https://maggieds.github.io/VED/news.html) page to find out what's going on in the video below.
 <center>
-<iframe width=auto src="https://www.youtube.com/embed/iChh6G4mqbc" title="video of participant walking around UNR campus wearing data recording device.  Video has no sound" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width=100% src="https://www.youtube.com/embed/iChh6G4mqbc" title="video of participant walking around UNR campus wearing data recording device.  Video has no sound" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </center>
 </div>
 </div>
 </div>
 </div>
+
