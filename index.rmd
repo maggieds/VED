@@ -16,11 +16,9 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class="inner right">
 <div class = "container-sidebar">
 <div class="flex-container-sidebar">
-
 <center>
 # Get Involved
 </center>
-
 <div class="flex-item">
 ## Help Us Record!
 We are seeking participants to record first person video data. See the [**Volunteer to Participate**](https://maggieds.github.io/VED/news.html) section for more information. 
@@ -37,7 +35,7 @@ The [VEDB data and software](https://maggieds.github.io/VED/researchers.html) ar
 
 <div class="float-left-area">
 <div>
-<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\vedb_logo.png" width="25%" alt="VED logo of drawing of an eye with a camera in the pupil" align="left" />The **Visual Experience Database (VEDB)** is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking.  By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.
+<img src="vedb-logo.png" width="25%" alt="VED logo of drawing of an eye with a camera in the pupil" align="left" />The **Visual Experience Database (VEDB)** is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking.  By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.
 </div>
 
 <br/>

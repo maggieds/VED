@@ -1,7 +1,26 @@
 name: "Visual Experience Database"
 output_dir: "."
+navbar:
+  title: "Visual Experience Database"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "People"
+      href: people.html
+    - text: "Summer School"
+      href: summerschool.html
+    - text: "What's New"
+      href: news.html
+    - text: "For Researchers"
+      href: researchers.html
 output: 
   html_document:
-      css: mystyle.css
-      includes:
+    theme: cerulean
+    css: mystyle.css
+    includes:
         after_body: footer.html
+       
+       
+       

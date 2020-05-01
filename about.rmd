@@ -29,7 +29,7 @@ Our database creation is guided by the following three criteria:
 
 **1. First person perspective**  
 <center>
-<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\eyetracking.jpg" alt="picture of cameras used to record data for the VEDB mounted on a headband">   
+<img src="eyetracking.jpg" alt="picture of cameras used to record data for the VEDB mounted on a headband">   
 </center>
 
 The data should be collected from a first-person perspective, with eye tracking. Cameras simulate first-person perspective, but are often aimed in ways that human eyes are not. Thus, it is critical that cameras be head-mounted and that eye tracking data be collected to reveal the specific objects, people, and locations that the observer is looking at.  
@@ -40,7 +40,7 @@ The data should be collected from a first-person perspective, with eye tracking.
 <div>
 **2. Broad, unbiased sampling**  
 <center>
-<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\sampling.png" alt="collage of pictures of University of Nevada campus from air, Lewiston Maine waterfall, corn field, close-up of face, grocery store aisle from perspective of someone pushing a cart">
+<img src="sampling.png" alt="collage of pictures of University of Nevada campus from air, Lewiston Maine waterfall, corn field, close-up of face, grocery store aisle from perspective of someone pushing a cart">
 </center>
 The data should reflect a broad and unbiased sampling of locations, tasks, and events from daily life, across a wide variety of observers. Here, we take our cue from recent principled efforts to sample static images of scenes and objects based on natural frequencies, and extend the same logic to first-person video collection. 
 </div>
@@ -50,7 +50,7 @@ The data should reflect a broad and unbiased sampling of locations, tasks, and e
 <div>
 **3. Accessible to all** 
 <center>
-<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\open_access.png" width=125% alt="collage of pictures of University of Nevada campus from air, Lewiston Maine waterfall, corn field, close-up of face, grocery store aisle from perspective of someone pushing a cart"> 
+<img src="open_access.png" width=125% alt="collage of pictures of University of Nevada campus from air, Lewiston Maine waterfall, corn field, close-up of face, grocery store aisle from perspective of someone pushing a cart"> 
 </center>
 The database should be accessible to all, regardless of technical experience or skill. If one can query a search engine, one should be able to access these data in a usable format.
 </div>
@@ -60,7 +60,7 @@ The database should be accessible to all, regardless of technical experience or 
 <div>
 Head-centered videos and eye tracking data are recorded using three cameras: two for monitoring eye position and one for recording the view of the environment. To eliminate corneal reflections outdoors, a filter constructed of disposable plastic optometrist sunglasses is used. Head tracking is facilitated by rigidly mounting both an inertial measurement unit and a global positioning system to the environment camera. All devices are connected to a laptop, carried in a backpack, that aggregates the data. 
 <center>
-<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\cameras.jpg" width=75% alt="images showing head-mounted cameras for simlutaneous first person video recording and recording eye movement to be used to capture data for the VEDB">
+<img src="cameras.jpg" width=75% alt="images showing head-mounted cameras for simlutaneous first person video recording and recording eye movement to be used to capture data for the VEDB">
 </center>
 </div>
 
