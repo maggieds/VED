@@ -15,8 +15,6 @@ navbar:
       href: news.html
     - text: "For Researchers"
       href: researchers.html
-    - text: "Index2"
-      href: index2.html
 output: 
   html_document:
     theme: cerulean
