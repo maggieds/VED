@@ -147,6 +147,32 @@ navbar navbar-inverse {
   align-items: center;
 }
 
+.grid2 {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 35% 35% 25%;
+    grid-template-rows: auto;
+}
+
+.grid-main {
+  grid-area: 1 / 1 / 2 / 3;
+}
+
+.grid-item1 {
+  grid-row: 2;
+  grid-column: 1;
+}
+
+.grid-item2 {
+  grid-row: 2 / span 1;
+  grid-column: 2 / span 1;
+}
+
+.grid-sidebar {
+  grid-row: 1 / span 2;
+  grid-column: 3 / span 1;
+}
+
 .float-left-area  {
 		  width: 68%;
 		  float: left;
