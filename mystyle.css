@@ -8,9 +8,17 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+html {
+  min-height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  max-width: 100%;
-  margin: 0, auto;
+  min-height: 100%;
+  width: 100%;
+  margin: 0 auto;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1.75rem;
   font-weight: 400;
@@ -121,45 +129,40 @@ progress {
   vertical-align: baseline;
 }
 
-.navbar .navbar-default .navbar-fixed-top {
-    display: flex;
-    height: 50px;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-}
-
 .container {
     display: flex;
+    width: 100%;
     height: 50px;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
 }
 
 .navbar {
     display: flex;
     background-color: #0c62ad;
     height: 50px;
-    align-items: center;
+    max-width: 100%;
+    justify-content: space-around;
 }
 
-.navbar-nav {
+
+.nav .navbar-nav  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     background-color: #0c62ad;
-    height: 50px;
+    height: 48px;
 }
 
 .navbar .navbar-nav > li > a {
-color: #ffffff;
+    color: #ffffff;
 }
 
 .navbar .navbar-nav > li > a:hover {
 color: #f7f411;
 }
 
-.nav {
-    background-color: #0c62ad;
-    height: 48px;
-}
+
 
 .navbar img {
     width: auto;
@@ -201,14 +204,14 @@ color: #f7f411;
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
-  }
+}
   
 .flex-container-sidebar {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 20px 20px;
+  padding: 5px 5px;
   border-radius: 5px;
   box-shadow: 10px 25px 10px -15px #184973;
 }
@@ -256,3 +259,12 @@ color: #f7f411;
   align-items: center;
 }
 
+.float-left-area  {
+		  width: 68%;
+		  float: left;
+		  }
+
+.float-right-area {
+		  width: 28%;
+		  float: right;
+		  }

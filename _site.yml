@@ -3,3 +3,5 @@ output_dir: "."
 output: 
   html_document:
       css: mystyle.css
+      includes:
+        after_body: footer.html

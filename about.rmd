@@ -9,6 +9,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<body>
 How many faces, bodies, and animals do people regularly see? How many vertical surfaces do we see compared to oblique or horizontal surfaces? How many different types of objects do people typically encounter, and where in the visual field do these objects land? How do we move our heads and eyes during different types of activities? How does this affect our visual input? **What does the world, as experienced by acting human observers, really look like?**
 
 Vision is an active process, and in order to fully characterize natural scene statistics it is necessary to characterize what human observers actually fixate in the world.  Vision researchers have been fundamentally constrained in the types of insights they can obtain due to limitations of the datasets available for study, including: small dataset size, narrow or otherwise unprincipled sampling of human visual experience, and photographer bias.  In addition, many datasets sample broadly from static images on the Internet, but these do not capture dynamic experiences and still reflect aesthetic preferences and other photographic biases.
@@ -63,7 +64,4 @@ Head-centered videos and eye tracking data are recorded using three cameras: two
 </center>
 </div>
 
-<br/>
-<br/>
-
-*This material is based upon work supported by the National Science Foundation under Grant No. 1920896*
+</body>

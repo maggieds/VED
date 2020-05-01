@@ -12,39 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 <br/>
 <br/>
-<div>
-<div class="row">
-
-<div class = "col-md-8">
-<div>
-The **Visual Experience Database (VEDB)** is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking.  By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.  *The creation of the VEDB is supported by an NSF EPSCoR Research Infrastructure Improvement Program: Track-2 Focused EPSCoR Collaborations grant (award #1920896).* 
-</div>
-<br/>
-<br/>
-
-<div class="flex-container">
-<div class="flex-item">
-<div>
-<img src="summer_school.png" width=auto alt="image of a cartoon sun with sunglasses and stylized Big Data Summer School words"> 
-The [**Big Data Summer School**](https://maggieds.github.io/VED/summerschool.html) is happening virtually on July 6-10 this year. 
-</div>
-</div>
-
-<br/>
-
-<div class="flex-item">
-<div>
-<center><img src="recording.png" width=auto alt="stylized text saying "We're recording for the VEDB"> </center>  
-Head over to the [**News**](https://maggieds.github.io/VED/news.html) page to find out what's going on in the video below.
-<center>
-<iframe width=auto src="https://www.youtube.com/embed/iChh6G4mqbc" title="video of participant walking around UNR campus wearing data recording device.  Video has no sound" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-</center>
-</div>
-</div>
-</div>
-</div>
-
-<div class = "col-md-4">
+<div class="float-right-area">
+<div class="inner right">
 <div class = "container-sidebar">
 <div class="flex-container-sidebar">
 
@@ -53,20 +22,41 @@ Head over to the [**News**](https://maggieds.github.io/VED/news.html) page to fi
 </center>
 
 <div class="flex-item">
-<div>
 ## Help Us Record!
 We are seeking participants to record first person video data. See the [**Volunteer to Participate**](https://maggieds.github.io/VED/news.html) section for more information. 
 </div>
-</div>
 <br/>
 <div class="flex-item">
-<div>
 ## Research your own questions!  
 The [VEDB data and software](https://maggieds.github.io/VED/researchers.html) are available on an open-access basis after a short embargo period.  We're also happy to collaborate!
-</div>
-</div>
-</div>
-</div>
+</div> 
+</div> 
+</div> 
+</div> 
 </div>
 
+<div class="float-left-area">
+<div>
+<img src="C:\Users\Maggie\Desktop\VEDWebsite\VED\vedb_logo.png" width="25%" alt="VED logo of drawing of an eye with a camera in the pupil" align="left" />The **Visual Experience Database (VEDB)** is a database of video captured from head-mounted cameras, complete with recordings of the videographer’s eye movements taken by a diverse set of observers engaged in common, everyday activities such as shopping, eating, or walking.  By creating a database that represents common, human experiences, we bypass the many biases of extant datasets, with the aim of increasing the efficacy of computer vision algorithms.
+</div>
 
+<br/>
+<br/>
+<div class="flex-container">
+<div class="flex-item">
+<img src="summer_school.png" width=auto alt="image of a cartoon sun with sunglasses and stylized Big Data Summer School words"> 
+The [**Big Data Summer School**](https://maggieds.github.io/VED/summerschool.html) is happening virtually on July 6-10 this year. 
+</div>
+
+<br/>
+
+<div class="flex-item">
+<center><img src="recording.png" width=auto alt="stylized text saying We're recording for the VEDB"> </center>  
+Head over to the [**News**](https://maggieds.github.io/VED/news.html) page to find out what's going on in the video below.
+<center>
+<iframe width=auto src="https://www.youtube.com/embed/iChh6G4mqbc" title="video of participant walking around UNR campus wearing data recording device.  Video has no sound" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+</center>
+</div>
+</div>
+</div>
+</div>
